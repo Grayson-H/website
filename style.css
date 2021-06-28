@@ -18,3 +18,6 @@ body {
   border: solid 10px lightblue;
   border-radius: 100px;
  }
+li {
+ text-allign: center;
+}
