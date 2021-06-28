@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(90deg, blue, purple);
+  color: orange;
+  font-family: helvetica;
+ }
+ h4 {
+  color: yellow;
+  font-family: helvetica;
+  text-align: center;
+ }
+ h1 {
+  background: linear-gradient(45deg, red, orange, yellow);
+  color: blue;
+  font-weight: bold;
+  font-family: helvetica;
+  text-align: center;
+  border: solid 10px lightblue;
+  border-radius: 100px;
+ }
