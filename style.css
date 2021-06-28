@@ -5,10 +5,11 @@ body {
  }
  h4 {
   color: yellow;
+  font-weight: bold;
   font-family: helvetica;
   text-align: center;
  }
- h1 {
+ h1 {  
   background: linear-gradient(45deg, red, orange, yellow);
   color: blue;
   font-weight: bold;
